@@ -32,14 +32,20 @@ export default function Portfolio() {
               </div>
               <div className="text-card-foreground leading-relaxed font-sans flex-1 text-sm space-y-3">
                 <p>
-                  Software Engineering undergraduate with hands-on experience building real client websites and digital
-                  products, including work with Oxygen Plus AI. Skilled in HTML, CSS, JavaScript, WordPress, React,
-                  Next.js, and Node.js, with a focus on clean, responsive, production-ready web experiences.
+                  Software Engineering undergraduate and web developer with hands-on experience building real client
+                  websites, web apps, and digital products.
                 </p>
                 <p>
-                  I help turn ideas into practical websites and web apps, from layout and frontend development to
-                  deployment-ready project structure. I am open to more projects, freelance work, and collaborations
-                  where I can contribute reliable software and continue expanding my experience.
+                  I work with <strong>HTML, CSS, JavaScript, WordPress, React, Next.js, and Node.js</strong>, focusing
+                  on clean UI, responsive development, reliable functionality, and production-ready builds.
+                </p>
+                <p>
+                  I help clients turn ideas into practical digital products - from frontend development and custom
+                  features to backend integration, fixes, optimization, and deployment.
+                </p>
+                <p>
+                  I'm open to freelance projects and collaborations where I can deliver solid work and keep building
+                  useful products.
                 </p>
               </div>
               <div className="flex flex-wrap gap-2 mt-4">
